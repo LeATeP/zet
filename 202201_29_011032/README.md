@@ -1,3 +1,0 @@
-# sql new
-
-sql
