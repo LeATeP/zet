@@ -7,6 +7,7 @@
 1. track productivity
 1. facility's
 1. territory management
+1. mob spawn
 
 # units to to do everything
 1. mining
