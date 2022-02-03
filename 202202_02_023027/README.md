@@ -8,4 +8,4 @@
 1. there is no specific output problem with point to type
 1. by creating type with pointer '&type' he creating just creating var as he is pointing to new type..
 1. and can be used as usual... and the benefits is that you can give to any fn your var that point, the fn can change values in the pointer location.. which you can't do with any other var
-
+...
