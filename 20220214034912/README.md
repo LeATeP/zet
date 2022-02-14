@@ -13,3 +13,4 @@
 1. 1-session learning sql
 	1. doing sql planning/design of tables/schemas 
 1. 1-session setting up k8s and stuff
+1. 1-session for learning vim/tmux/markdown
