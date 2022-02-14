@@ -7,12 +7,12 @@
 * work day starting after 5h after waking up
 
 # my 4h work day will consist of
-1. 1-2 session learning golang, going through go-tour or tutorial
+1. learning golang, going through go-tour or tutorial
 	1. writing docs/comments to my code
-1. 1-session   doing bash ido app, or setting up bashrc, vimrc
-1. 1-session planning/design Vaava project
-1. 1-session learning sql
+1. doing bash ido app, or setting up bashrc, vimrc
+1. planning/design Vaava project
+1. learning sql
 	1. doing sql planning/design of tables/schemas 
-1. 1-session setting up k8s and stuff
-1. 1-session for learning vim/tmux/markdown
-1. 1-session watching boost/course
+1. setting up k8s and stuff
+1. for learning vim/tmux/markdown
+1. watching boost/course
