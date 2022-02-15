@@ -1,4 +1,4 @@
-# golang develop requirements(wishes)
+# golang developer requirements(wishes)
 
 * enough knowledge of golang, to be able to write *microservices*
 * be familiar with docker/docker-compose/kubernetes
