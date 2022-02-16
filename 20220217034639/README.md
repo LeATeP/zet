@@ -1,0 +1,16 @@
+# thoughts about go/python
+
+The problem with go, is that it's not very good at network/sql/sleep
+it's more about high performance, high calculation, ML/algoritms 
+that req processing power and multi-threading
+
+making socket/sql handlers is good, and i should standartizing it for python/go 
+in separate template repos
+
+* go should be really good as a serve
+so as long as i have little code to compute and only executing sql query's, or sleep... 
+python will outperforme
+
+
+
+
