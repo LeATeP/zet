@@ -11,6 +11,6 @@ in separate template repos
 so as long as i have little code to compute and only executing sql query's, or sleep... 
 python will outperforme
 
-
-
+python is great for interface, for direct cmd's
+where as go is only for running inside containers, and responsible for infrastructure
 
