@@ -12,3 +12,10 @@ all units deployment can be done manually, and regulate as needed
 1. server/client to manage units
 1. k8s auto manage units
 1. thoughts about performance, scalability, management
+
+
+# priority to build
+1. mining units that mine resources
+1. summon units the smart algorithm 
+1. centry guards to defend base
+1. mobs that attack
