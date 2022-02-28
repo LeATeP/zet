@@ -17,6 +17,7 @@ pros
 1. no need to think of hard logic of main server, that all client have to follow
 1. direct access to database
 1. each client have their own logic and mechanics, where server doesn't interfere
+
 cons
 1. no validation of transactions, no security 
 1. constant management of database load, all computaion are in sql
