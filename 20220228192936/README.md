@@ -14,7 +14,12 @@ game consist of containes, but containers have to communicate, save data, and be
 * the server only responsible for management and organization of each client, and assigning free units to them
 
 pros
+1. no need to think of hard logic of main server, that all client have to follow
+1. direct access to database
+1. each client have their own logic and mechanics, where server doesn't interfere
 cons
+1. no validation of transactions, no security 
+1. constant management of database load, all computaion are in sql
 
 ## 2. the server responsible for all transaction with sql server
 
@@ -23,7 +28,8 @@ cons
 
 pros
 1. no need to hard planning of scaling database servers, to meet damand of each client sending data
-
+1. less workload on database, less database need of scaling
+cons
 
 ## 3. main app solution
 
@@ -35,7 +41,7 @@ pros of this approach
 1. no need to manage containers
 1. client,server management
 1. server/client/sql communication planning
-
+cons
 
 
 
