@@ -30,6 +30,7 @@ cons
 pros
 1. no need to hard planning of scaling database servers, to meet damand of each client sending data
 1. less workload on database, less database need of scaling
+
 cons
 
 ## 3. main app solution
@@ -42,6 +43,7 @@ pros of this approach
 1. no need to manage containers
 1. client,server management
 1. server/client/sql communication planning
+
 cons
 
 
