@@ -14,4 +14,3 @@
 1. System thinking
 1. Amplifying feedback loops
 1. A culture of continuous experimentation and learning
-
