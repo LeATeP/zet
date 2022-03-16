@@ -12,7 +12,7 @@
 
 ## pointers with slice
 point is not needed in case of only changing value of existing value in a slice
-for append, delete 
+actions that req assigning new slice like "append", req pointer
 
 ## pointers to map
 point in not needed in any case
@@ -20,5 +20,11 @@ point in not needed in any case
 ## point to a struct
 work the same with any value, if value stored in stuct slice or map, take referrence above
 
-if the value of struct is map
+each value in a struct working as they intendent, and there is no additional function added in type/struct
 
+if you want to completely change the value, to add completely new slice or map, req pointer to this slot of struct
+
+
+## links
+[Go Blog: Mechanics of 'append'][mechanics-of-append]
+[mechanics-of-append]: https://go.dev/blog/slices
