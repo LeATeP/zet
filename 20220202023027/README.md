@@ -12,6 +12,13 @@
 
 ## pointers with slice
 point is not needed in case of only changing value of existing value in a slice
+for append, delete 
 
-## 
+## pointers to map
+point in not needed in any case
+
+## point to a struct
+work the same with any value, if value stored in stuct slice or map, take referrence above
+
+if the value of struct is map
 
