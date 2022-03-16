@@ -3,6 +3,8 @@
 build function to call by struct
 method is a func with receiver argument
 
+there is no naming conflict, because the function tied to a receiver type
+
 ```go
 type num struct {
 	rand int
