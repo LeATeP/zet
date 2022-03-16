@@ -27,4 +27,5 @@ if you want to completely change the value, to add completely new slice or map, 
 
 ## links
 [Go Blog: Mechanics of 'append'][mechanics-of-append]
+
 [mechanics-of-append]: https://go.dev/blog/slices
