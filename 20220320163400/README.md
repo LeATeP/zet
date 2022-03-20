@@ -1,5 +1,7 @@
 # go interface
 
+a interface can hold any value that implement those methods
+
 to implement interface
 
 ```go
