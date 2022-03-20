@@ -12,7 +12,7 @@ type a interface {
 ```
 first is a need of `rec` type, that has method of `fn` which return int
 
-method is just getting `rec` by packaging him in his own type
+interface is just getting `rec` by packaging him in his own type
 
 if there is a need in `a` interface, then it's brief description of what methods a type `rec` have at his disposal, and what they doing
 
