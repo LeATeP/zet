@@ -20,5 +20,5 @@ if there is a need in `a` interface, then it's brief description of what methods
 r := rec(1)
 var inter a
 a = r
-r.fn()
+a.fn()
 ```
