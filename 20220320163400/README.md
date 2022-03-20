@@ -1,4 +1,4 @@
-# go interface
+# Go interface
 
 a interface can hold any value that implement those methods
 
