@@ -16,6 +16,8 @@ interface is just getting `rec` by packaging him in his own type
 
 if there is a need in `a` interface, then it's brief description of what methods a type `rec` have at his disposal, and what they doing
 
+method `rec` implement the interface `a`
+
 ```go
 r := rec(1)
 var inter a
