@@ -9,9 +9,10 @@ msg consist of {codeId, name, num},
 `0` or default, meaning no msg, error or something
 `1` connection ping to verify to client that server is alive
 `2` getting info about client
-`3` client saying that he is shutting down
-`4` client saying that he is reloading
-`5` sending specific data, say appending to map.
+`3` notify client about server changes
+`4` client saying that he is shutting down
+`5` client saying that he is reloading
+`6` sending specific data, say appending to map.
 
 ## client side
 
@@ -21,5 +22,6 @@ msg consist of {codeId, name, num},
 `3` signal to change settings to...
 `4` signal to shutdown
 `5` signal to reload
+
 
 
