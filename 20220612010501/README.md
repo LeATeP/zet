@@ -1,4 +1,4 @@
-# css elements explained
+# css display: flex elements explained
 
 
 - display: flex?
@@ -18,6 +18,10 @@ with 'flex-direction'
 - align-self: flex/normal
 align specific item inside main 'align-items' or 'display'
 
-- flex-grow: 1~
+- flex-grow: 0 default
 make an object to fill available space in the direction where object
 point to with 'flex-direction'
+
+- flex-shrink: 0 default
+the same as `grow` but opposite, object will shrink only when container
+is too small to fit. or refuse to shrink with 0 value
