@@ -31,3 +31,6 @@ the same as `grow` but opposite, object will shrink only when container
 is too small to fit. or refuse to shrink with 0 value
 
 - flex-basis: set initial size of flex item, default `auto`
+
+- gap: default 0
+add space between flex items, much like padding
