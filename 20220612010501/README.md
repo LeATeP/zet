@@ -33,7 +33,8 @@ point to with 'flex-direction'
 the same as `grow` but opposite, object will shrink only when container
 is too small to fit. or refuse to shrink with 0 value
 
-- flex-basis: set initial size of flex item, default `auto`
+- flex-basis: set initial size of flex item, default `auto` 
+if item size is 100, the basis has a priority and be put instead
 
 - gap: default 0
 add space between flex items, much like padding
