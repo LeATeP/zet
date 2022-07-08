@@ -16,7 +16,7 @@ where as go is only for running inside containers, and responsible for infrastru
 
 
 
--- go advance method to query database
+* go advance method to query database
 by query a single row, no need query everything all at once
 can be itered by row count
 ```go
