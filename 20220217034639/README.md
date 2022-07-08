@@ -14,3 +14,11 @@ python will outperforme
 python is great for interface, for direct cmd's
 where as go is only for running inside containers, and responsible for infrastructure
 
+
+
+-- go advance method to query database
+by query a single row, no need query everything all at once
+can be itered by row count
+```go
+QueryRow(string, ...interface{}) *sql.Row
+```
